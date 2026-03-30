@@ -6,7 +6,8 @@ import re
 from nltk.stem import SnowballStemmer
 
 st.title("TF-IDF con Preguntas y Respuestas")
-
+image = Image.open('question-and-answer-7247900_1280.webp')
+st.image(image)
 
 # Ejemplo inicial en inglés
 text_input = st.text_area(
