@@ -10,7 +10,6 @@ st.title("TF-IDF con Preguntas y Respuestas")
 
 # Ejemplo inicial en inglés
 text_input = st.text_area(
-    ,
     
     "Isabella is at class.\nManuela is eating her lunch.\nSamuel is with his grandpa."
 )
